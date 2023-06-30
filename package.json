@@ -1,0 +1,41 @@
+{
+  "name": "twitterbot",
+  "version": "1.0.0",
+  "description": "Разработка сервиса автоматического сбора информационных материалов из социальной сети микроблогов «Twitter».",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "http://gitlab.gvc/melumyan/twitterbot.git"
+  },
+  "keywords": [
+    "twitter-bot",
+    "twitter-api"
+  ],
+  "author": "@melumyan-araik",
+  "license": "ISC",
+  "dependencies": {
+    "amqplib": "^0.10.3",
+    "axios": "^1.3.2",
+    "cors": "^2.8.5",
+    "crypto": "^1.0.1",
+    "dotenv": "^16.0.3",
+    "express": "^4.18.2",
+    "express-session": "^1.17.3",
+    "express-validator": "^6.14.3",
+    "hbs": "^4.2.0",
+    "morgan": "^1.10.0",
+    "swagger-jsdoc": "^6.2.8",
+    "swagger-ui-express": "^4.6.0",
+    "twitter-api-v2": "^1.14.1",
+    "twitter-oauth2": "^1.0.7",
+    "twitter-url-direct": "^1.0.9",
+    "uuid": "^9.0.0"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.20"
+  }
+}

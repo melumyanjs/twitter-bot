@@ -1,0 +1,10 @@
+[ 
+{
+"title": "В Хабаровске осужден организатор межрегионального канала поставок наркотических средств", — заголовок 
+"date" : "2023-02-21T09:10:00.000Z",  — дата
+"href", "http://debri-dv.com/article/32968/v_habarovske_osuzhden_organizator_mezhregionalnogo_kanala_postavok_narkoticheskih_sredstv", — ссылка
+"desc": "описание", — описание, не обязательно
+"content": "текст новости", — текст новости
+"agency" "ресурс" — наименование ресурса (канала)
+}
+]
